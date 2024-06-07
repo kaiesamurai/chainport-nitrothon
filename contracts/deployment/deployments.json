@@ -1,0 +1,12 @@
+{
+  "43113": {
+    "gatewayContract": "0x94caA85bC578C05B22BDb00E6Ae1A34878f047F7",
+    "feePayerAddress": "0xe50b254a5571B59B521e75622C2573067F893132",
+    "BulkDispersal": "0x71DC940565abC6cAcA722dE8da5c00e72D4f9757"
+  },
+  "80001": {
+    "gatewayContract": "0x94caA85bC578C05B22BDb00E6Ae1A34878f047F7",
+    "feePayerAddress": "0xe50b254a5571B59B521e75622C2573067F893132",
+    "BulkDispersal": "0x7B263756dB168445FBf911381291e18Cd2dA2f04"
+  }
+}
